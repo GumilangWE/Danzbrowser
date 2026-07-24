@@ -20,9 +20,12 @@ Designed to be simple, fast, and portable with AppImage support.
 
 ## 📥 Download
 
-Download the latest AppImage:
+You can download the latest release of **Danz Browser** here:
 
-➡️ Go to **Releases**
+**⬇️ Google Drive**
+https://drive.google.com/file/d/1qeuULHPhW39DatZXp16_SF_P--T3Zwvi/view?usp=sharing
+
+
 
 ## ❤️ Support
 
@@ -45,13 +48,13 @@ If you like this project, don't forget to subscribe to my YouTube channel for de
 
 
 
-## ▶️ Run
+### Run
 
 ```bash
 chmod +x Danz_Browser-x86_64.AppImage
 ./Danz_Browser-x86_64.AppImage
+```
 
-
-A lightweight Linux web browser built with GJS + WebKitGTk 
+> **Note:** Danz Browser is distributed as an **AppImage**, so no installation is required. Simply make it executable and run it.
 
 
