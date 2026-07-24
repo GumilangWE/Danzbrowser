@@ -24,6 +24,16 @@ Download the latest AppImage:
 
 ➡️ Go to **Releases**
 
+## ❤️ Support
+
+If you enjoy using **Danz Browser** and would like to support its development, you can contribute through:
+
+* 💙 PayPal: https://paypal.me/gumilangstore
+* 🧡 Sociabuzz: https://sociabuzz.com/agumrp/tribe
+
+Every contribution helps improve the project and supports future updates. Thank you for your support! 🚀
+
+
 ## ▶️ Run
 
 ```bash
@@ -31,4 +41,6 @@ chmod +x Danz_Browser-x86_64.AppImage
 ./Danz_Browser-x86_64.AppImage
 
 
-A lightweight Linux web browser built with GJS + WebKitGTK
+A lightweight Linux web browser built with GJS + WebKitGTk 
+
+
