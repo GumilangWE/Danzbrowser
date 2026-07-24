@@ -33,6 +33,17 @@ If you enjoy using **Danz Browser** and would like to support its development, y
 
 Every contribution helps improve the project and supports future updates. Thank you for your support! 🚀
 
+---
+
+## 📺 Subscribe on YouTube
+
+If you like this project, don't forget to subscribe to my YouTube channel for development updates, tutorials, and future projects.
+
+**🔗 https://www.youtube.com/@agumrp**
+
+⭐ If this project helps you, please consider giving this repository a **Star** on GitHub and sharing it with others!
+
+
 
 ## ▶️ Run
 
